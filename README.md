@@ -2,4 +2,4 @@
 
 ## test edit
 
-Markdown test. |
+Markdown test.
